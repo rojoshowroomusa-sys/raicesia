@@ -1,0 +1,6 @@
+{
+  "name": "Raíces AI",
+  "description": "Soluciones tecnológicas a medida e Inteligencia Artificial adaptadas a la esencia y los cimientos de tu negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
